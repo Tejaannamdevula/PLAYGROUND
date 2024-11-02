@@ -6,6 +6,13 @@ type AnimateProps = {
   animateProps?: MotionProps["animate"];
 };
 
+/*
+  
+
+
+
+
+*/
 export function Animate({ children, animateProps }: AnimateProps): JSX.Element {
   return (
     <div>

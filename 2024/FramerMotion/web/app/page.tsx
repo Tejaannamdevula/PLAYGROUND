@@ -1,6 +1,7 @@
 import { Animate } from "@/components/animations/Animate";
 import { KeyFrame } from "@/components/animations/KeyFrame";
 import { Transition } from "@/components/animations/Transition";
+import Variants from "@/components/animations/Variants";
 
 /*
 
@@ -22,7 +23,9 @@ export default function Home() {
 
       {/* <Transition /> */}
 
-      <KeyFrame />
+      {/* <KeyFrame /> */}
+
+      <Variants />
     </div>
   );
 }

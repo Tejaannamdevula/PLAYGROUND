@@ -1,6 +1,9 @@
 import { Animate } from "@/components/animations/Animate";
+import Gestures from "@/components/animations/Gestures";
 import { KeyFrame } from "@/components/animations/KeyFrame";
+import StaggerAnimation from "@/components/animations/StaggerAnimation";
 import { Transition } from "@/components/animations/Transition";
+import UseMotionValue from "@/components/animations/UseMotionValue";
 import Variants from "@/components/animations/Variants";
 
 /*
@@ -25,7 +28,11 @@ export default function Home() {
 
       {/* <KeyFrame /> */}
 
-      <Variants />
+      {/* <Variants /> */}
+      {/* <Gestures></Gestures> */}
+
+      {/* <StaggerAnimation /> */}
+      <UseMotionValue />
     </div>
   );
 }

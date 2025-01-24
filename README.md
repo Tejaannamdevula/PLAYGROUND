@@ -2,8 +2,8 @@
 
 ## Things I learn !!
 
-### [Currently learning](./2024/2024.md)
+### [Currently learning](./2025/2025.md)
 
-> 1. [React](./2024/React/)
+> 1. [Tailwind](./2025/Tailwind/)
 
-> 2. [Web3](./2024/Web3)
+> 2. [Docker](./2024/Docker)

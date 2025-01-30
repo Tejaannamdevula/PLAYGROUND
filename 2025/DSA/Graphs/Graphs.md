@@ -1,6 +1,7 @@
 # BiPartite:-
 
 A graph is bipartite if the nodes can be partitioned into two independent sets A and B such that every edge in the graph connects a node in set A and a node in set B.
+
 ![bipartite](./Bipartite.png)
 
 odd length cycle cannot be a bipartite . \

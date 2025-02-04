@@ -45,3 +45,12 @@
 - [React Docs: Responding to Events](https://react.dev/learn/responding-to-events)
 
 ---
+
+# Serialization Server Components
+
+- **Reacts does not allow non-serializable objects (like MySQL result objects) to be passed from a Server Component (executeUserQuery) to a Client Component**
+
+#### Resources
+
+- [React Docs: Serializable data](https://react.dev/reference/rsc/use-server#serializable-parameters-and-return-values)
+- [Code Ryan :Yt Video](https://youtu.be/_8zHNivAEf0?si=YDoLUqHZtwrhan6i)
